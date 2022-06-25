@@ -16,6 +16,7 @@
 
 <h3 align="left">Connect with me:</h3>
 
+<p align="center">
 <a href="https://www.linkedin.com/in/faiza-ahmed-982386202/"><img align="left" width="150" height="146" src="https://github.com/M0nica/M0nica/blob/main/octomonica/m0nica-octocat-rotating.gif?raw=true"></a>
 
 <p align="center">
