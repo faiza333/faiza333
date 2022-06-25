@@ -16,9 +16,7 @@
 
 
 <h3 align="left">Languages and Tools:</h3>
-<br>
-<img align="right" src="https://raw.githubusercontent.com/SubhadeepZilong/SubhadeepZilong/main/icons/animation_500_kxa883sd.gif" alt="Unfortunately I didn't find the author of the pic, feel to open a pull request if found" width="30%" />
-<br>
+
 <a href="https://www.linkedin.com/in/faiza-ahmed-982386202/"><img align="left" width="150" height="146" src="https://github.com/M0nica/M0nica/blob/main/octomonica/m0nica-octocat-rotating.gif?raw=true"></a>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
