@@ -15,9 +15,10 @@
 
 
 <h3 align="left">Connect with me:</h3>
+
 <a href="https://www.linkedin.com/in/faiza-ahmed-982386202/"><img align="left" width="150" height="146" src="https://github.com/M0nica/M0nica/blob/main/octomonica/m0nica-octocat-rotating.gif?raw=true"></a>
 
-<p align="left">
+<p align="center">
 <a href="https://www.kaggle.com/faizaahmed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="FaizaAhmed" height="30" width="40" /></a>
   
   
